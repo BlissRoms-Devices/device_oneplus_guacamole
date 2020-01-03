@@ -269,4 +269,7 @@
     <integer name="config_sysCPUTempMultiplier">1000</integer>
     <integer name="config_sysBatteryTempMultiplier">10</integer>
 
+    <!-- Radius of the software rounded corners. -->
+    <dimen name="rounded_corner_radius">140px</dimen>
+
 </resources>
