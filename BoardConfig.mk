@@ -15,6 +15,8 @@ TARGET_OTA_ASSERT_DEVICE := OnePlus7Pro
 # Kernel
 TARGET_KERNEL_CONFIG := bliss_defconfig
 
+TARGET_INCLUDE_CHROME := true
+
 # Vendor init
 TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):libinit_guacamole
 TARGET_RECOVERY_DEVICE_MODULES := libinit_guacamole
