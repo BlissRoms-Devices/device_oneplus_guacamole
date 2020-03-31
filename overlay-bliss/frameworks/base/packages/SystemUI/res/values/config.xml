@@ -22,4 +22,8 @@
 <resources>
     <!-- Allow device to use unordinary cutout overlays -->
     <bool name="config_customCutout">true</bool>
+	
+	<!-- Allow devices to hide black gradient behind QS Panel -->
+	<bool name="config_hideQSBlackGradient">true</bool>
+	
 </resources>
