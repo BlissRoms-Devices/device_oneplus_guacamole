@@ -13,9 +13,9 @@
  },
  {
    "remote":      "github",
-   "repository":  "idkwhoiam322/weeb_kernel_oneplus_sm8150",
+   "repository":  "AOSiP-Devices/kernel_oneplus_sm8150",
    "target_path": "kernel/oneplus/sm8150",
-   "revision":    "staging"
+   "revision":    "ten"
  },
  {
    "remote":      "github",
@@ -25,8 +25,8 @@
  },
  {
    "remote":      "github",
-   "repository":  "kdrag0n/proton-clang",
-   "target_path": "prebuilts/clang/host/linux-x86/clang-proton",
-   "revision":    "master"
+   "repository":  "crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-6443078",
+   "target_path": "prebuilts/clang/host/linux-x86/clang-6443078",
+   "revision":    "10.0"
  } 
 ]
