@@ -9,7 +9,7 @@
    "remote":      "github",
    "repository":  "BlissRoms-Devices/android_kernel_oneplus_sm8150",
    "target_path": "kernel/oneplus/sm8150",
-   "revision":    "r-dora"
+   "revision":    "r"
  },
   {
    "remote":      "github",
