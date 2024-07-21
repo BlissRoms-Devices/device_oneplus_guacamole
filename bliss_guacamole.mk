@@ -21,9 +21,6 @@ BLISS_BUILDTYPE := OFFICIAL
 # UDFPS animations
 EXTRA_UDFPS_ANIMATIONS := true
 
-# Gapps
-TARGET_ESSENTIAL_GAPPS := true
-
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := bliss_guacamole
 PRODUCT_DEVICE := guacamole
